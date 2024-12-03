@@ -1,4 +1,4 @@
-# lk2nd-xiaomi-daisy-prebuild
+# lk2nd-xiaomi-daisy-sakura-prebuild
 #### Prebuild lk2nd images for PostMarket OS for Xiaomi Mi A2 Lite (xiaomi-daisy) and Redmi 6 Pro (xiaomi-sakura) models.
 May come in handy if you don't working sensor and don't want to do the build manually.
 
